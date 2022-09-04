@@ -1,4 +1,6 @@
 # If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem 'jekyll-spaceship'
-end
+source https://github.com/jeffreytse/jekyll-spaceship
+
+#group :jekyll_plugins do
+#  gem 'jekyll-spaceship'
+#end
