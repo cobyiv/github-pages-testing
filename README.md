@@ -1,4 +1,4 @@
-# github-pages-testing
+# github-pages-testing.
 
 ## mermaid.js
 
