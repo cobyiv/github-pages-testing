@@ -1,5 +1,5 @@
 # If you have any plugins, put them here!
-#source "https://github.com/jeffreytse/jekyll-spaceship"
+source 'https://rubygems.org'
 
 group :jekyll_plugins do
   gem "addressable", git: "https://github.com/sporkmonger/addressable"
